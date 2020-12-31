@@ -1,6 +1,6 @@
 # VHEALTH TRACE
 
-A Flutter application that generates QR CODE users health information.In this COVID pandemic situation Users will be able to share  their health information to Doctors by maintaining social distancing.
+A Flutter application that generates QR CODE for users health information.In this COVID pandemic situation Users will be able to share  their health information to Doctors by maintaining social distancing.
 
 ## Getting Started
 
